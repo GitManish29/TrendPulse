@@ -20,3 +20,4 @@
 https://praw.readthedocs.io/en/stable/
 https://www.npmjs.com/package/steamapi
 https://huggingface.co/docs/hub/spaces-sdks-gradio
+https://www.kaggle.com/datasets/utkarshxy/stock-markettweets-lexicon-data
